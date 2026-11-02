@@ -1,0 +1,7 @@
+run = "python -m xcore"
+entrypoint = "xcore/app.py"
+modules = ["python-3.12"]
+[nix]
+channel = "stable-23_11"
+[deployment]
+run = ["sh", "-c", "python -m xcore"]

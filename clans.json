@@ -1,0 +1,116 @@
+{
+  "clans": [
+    {
+      "name": "Unknown",
+      "tag": "⟬𖣲⟭",
+      "description": "Tag concealed clan",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Infernal Coven",
+      "tag": "『𖨆𖢟⁴¹⁹』⦉𖢍⦊⁩",
+      "description": "Infernal order",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Raven Clan",
+      "tag": "『𐀀』",
+      "description": "Raven order",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Fallen",
+      "tag": "𝕱ᵃˡˡᵉⁿ",
+      "description": "Fallen clan",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Venom",
+      "tag": "𓊈𖢗𓊉 〆VΞNOM〆・毒",
+      "description": "Venom clan",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Smitadex",
+      "tag": "숬『 𝚂𝙼𝚃』𖤍",
+      "description": "Smitadex clan",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Unique Grace",
+      "tag": "🎀 ⟡ 𝑫𝒆𝒗 • 𝕸𝖗𝖘. 𝖀𝖓𝖎𝖖𝖚𝖊 𝕲𝖗𝖆𝖈𝖊 </> ❦︎",
+      "description": "Quin Grace — war lady above all clans",
+      "members": null,
+      "age": "unknown",
+      "threat": "HIGH"
+    },
+    {
+      "name": "Noxaria",
+      "tag": "⟬♱⟭",
+      "description": "『† NØXARIA †』 clan",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Shelby",
+      "tag": "ˢʰᵉˡᵇʸ",
+      "description": "Shelby clan — symbol unknown, name-marker only",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Unknown 𖥓",
+      "tag": "𓊈𖥓𓊉",
+      "description": "Unidentified clan — bearers spotted, no intel yet",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Unknown 𖡃",
+      "tag": "𓊈𖡃𓊉",
+      "description": "Unidentified clan — bearers spotted, no intel yet",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Aatrox",
+      "tag": "𓊈𖡄𓊉",
+      "description": "𝐀𝐀𝐓𝐑𝐎𝐗 𝐂𝐋𝐀𝐍",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Goated Clan",
+      "tag": "𓃵 ᵍᵒᵃᵗᵉᵈ",
+      "description": "investigation-ongoing",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    },
+    {
+      "name": "Null",
+      "tag": "𖠦",
+      "description": "investigation-ongoing",
+      "members": null,
+      "age": "unknown",
+      "threat": "UNKNOWN"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+services:
+  xcore:
+    build: .
+    container_name: xcore
+    restart: unless-stopped
+    ports: ["3000:3000"]
+    env_file: .env
+    volumes:
+      - ./sessions:/app/sessions
+      - ./data:/app/data
+      - ./logs:/app/logs
+    healthcheck:
+      test: ["CMD","curl","-fsS","http://localhost:3000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

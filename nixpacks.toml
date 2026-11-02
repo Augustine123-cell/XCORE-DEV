@@ -1,0 +1,6 @@
+[phases.setup]
+nixPkgs = ["python312", "git"]
+[phases.install]
+cmds = ["python -m venv /opt/venv", "/opt/venv/bin/pip install -r requirements.txt"]
+[start]
+cmd = "/opt/venv/bin/python -m xcore"
